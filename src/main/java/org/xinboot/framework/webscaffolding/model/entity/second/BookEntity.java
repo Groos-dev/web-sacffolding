@@ -1,7 +1,8 @@
-package org.xinboot.framework.webscaffolding.model.entity;
+package org.xinboot.framework.webscaffolding.model.entity.second;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
+import org.xinboot.framework.webscaffolding.model.entity.BaseEntity;
 
 import java.math.BigDecimal;
 

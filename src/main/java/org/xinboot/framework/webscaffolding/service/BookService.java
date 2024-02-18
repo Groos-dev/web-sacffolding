@@ -1,7 +1,7 @@
 package org.xinboot.framework.webscaffolding.service;
 
 
-import org.xinboot.framework.webscaffolding.model.entity.BookEntity;
+import org.xinboot.framework.webscaffolding.model.entity.primary.BookEntity;
 
 import java.util.UUID;
 
@@ -10,4 +10,6 @@ import java.util.UUID;
  */
 public interface BookService {
   BookEntity get(UUID id);
+
+  BookEntity save(BookEntity bookEntity);
 }

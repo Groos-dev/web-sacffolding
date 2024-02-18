@@ -1,4 +1,4 @@
-package org.xinboot.framework.webscaffolding.model.entity.auth;
+package org.xinboot.framework.webscaffolding.model.entity.primary.auth;
 
 import lombok.Data;
 

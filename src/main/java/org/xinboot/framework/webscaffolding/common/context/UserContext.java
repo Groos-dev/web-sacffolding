@@ -1,7 +1,7 @@
 package org.xinboot.framework.webscaffolding.common.context;
 
 
-import org.xinboot.framework.webscaffolding.model.entity.auth.User;
+import org.xinboot.framework.webscaffolding.model.entity.primary.auth.User;
 
 /**
  * @author zengxin
